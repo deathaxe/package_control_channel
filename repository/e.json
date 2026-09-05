@@ -1334,16 +1334,6 @@
 			]
 		},
 		{
-			"name": "EXAPUNKS",
-			"details": "https://github.com/cafuneandchill/exapunks-syntax",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Exclude Paths",
 			"details": "https://github.com/kemayo/sublime-text-exclude-paths",
 			"labels": ["project", "indexing", "exclude", "paths"],

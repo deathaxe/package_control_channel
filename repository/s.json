@@ -625,16 +625,6 @@
 			]
 		},
 		{
-			"name": "SCSS Expander",
-			"details": "https://github.com/garetht/sublime-scss-expander",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "SCSS Snippets",
 			"details": "https://github.com/npostulart/SCSS-Snippets",
 			"labels": ["snippets"],
@@ -1890,15 +1880,6 @@
 			]
 		},
 		{
-			"name": "SingularitySnippets",
-			"details": "https://github.com/blcook223/SingularitySnippets",
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Sinon",
 			"details": "https://github.com/mokkabonna/sublime-sinon",
 			"labels": ["language syntax", "completions", "sinon"],
@@ -2005,6 +1986,17 @@
 			"details": "https://github.com/simion/sublime-slack-integration",
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Slang",
+			"details": "https://github.com/jwortmann/sublime-slang",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
 					"tags": true
 				}
 			]
