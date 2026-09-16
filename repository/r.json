@@ -24,11 +24,16 @@
 		},
 		{
 			"name": "Racket",
-			"details": "https://github.com/follesoe/sublime-racket",
-			"labels": ["language syntax"],
+			"details": "https://github.com/17451k/sublime-racket",
+			"labels": ["language syntax", "racket"],
 			"releases": [
 				{
-					"branch": "master"
+					"sublime_text": ">=4000",
+					"tags": true
+				},
+				{
+					"sublime_text": "<4000",
+					"tags": "st3-"
 				}
 			]
 		},
