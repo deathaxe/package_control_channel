@@ -486,6 +486,17 @@
 			]
 		},
 		{
+			"name": "Markdown Nav",
+			"details": "https://github.com/noahcoad/SublimeMarkdownNav",
+			"labels": ["markdown", "code navigation", "search"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Markdown Numbered Headers",
 			"details": "https://github.com/weituotian/md_numbered_headers",
 			"labels": ["markdown", "headers", "numbered headers"],

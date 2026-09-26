@@ -582,6 +582,17 @@
 			]
 		},
 		{
+			"name": "VisuBezier",
+			"details": "https://github.com/mrcgrtz/visubezier",
+			"labels": ["css", "preview", "hover", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Viv",
 			"details": "https://github.com/siftystudio/viv",
 			"author": "Sifty",

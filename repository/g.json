@@ -689,6 +689,17 @@
 			]
 		},
 		{
+			"name": "GitHubPullRequest",
+			"details": "https://github.com/ViBiOh/sublime-GitHubPullRequest",
+			"labels": ["github", "pull-request"],
+			"releases": [
+				{
+					"sublime_text": ">=4083",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "GitHubTools",
 			"details": "https://github.com/braver/GitHubTools",
 			"donate": "https://ko-fi.com/koenlageveen",
@@ -1323,7 +1334,12 @@
 			"details": "https://github.com/noahcoad/google-spell-check",
 			"releases": [
 				{
+					"sublime_text": "<4107",
 					"branch": "st3"
+				},
+				{
+					"sublime_text": ">=4107",
+					"tags": true
 				}
 			]
 		},
