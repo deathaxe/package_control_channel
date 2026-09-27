@@ -1140,7 +1140,7 @@
 			"labels": ["language syntax", "snippets", "auto-complete", "formatting"],
 			"releases": [
 				{
-					"sublime_text": "3000 - 4106",
+					"sublime_text": "<4107",
 					"tags": "st3-"
 				},
 				{
