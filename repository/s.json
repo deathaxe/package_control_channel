@@ -1141,6 +1141,17 @@
 			]
 		},
 		{
+			"name": "SettingsUI",
+			"details": "https://github.com/mfuentesg/settings-ui",
+			"labels": ["settings", "preferences"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SettingSwitcher",
 			"details": "https://github.com/halfmoonvic/SettingSwitcher",
 			"releases": [
@@ -5234,6 +5245,16 @@
 			"name": "SysLog",
 			"details": "https://github.com/gregschoen/sublimetext-syslog",
 			"labels": ["language syntax", "color scheme"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "systemd",
+			"details": "https://github.com/macowie/sublime-systemd",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"tags": true

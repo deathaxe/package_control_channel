@@ -22,12 +22,13 @@
 			]
 		},
 		{
-			"name": "Vala-TMBundle",
-			"details": "https://github.com/technosophos/Vala-TMBundle",
-			"labels": ["language syntax", "vala"],
+			"name": "Vala",
+			"previous_names": ["Vala-TMBundle"],
+			"details": "https://github.com/colinkiama/vala_sublime_text",
+			"labels": ["language syntax", "build system", "snippets", "completions", "vala", "genie"],
 			"releases": [
 				{
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},

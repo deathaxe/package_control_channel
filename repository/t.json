@@ -1038,10 +1038,14 @@
 		{
 			"name": "Theme - Brackets",
 			"details": "https://github.com/jwortmann/brackets-theme",
-			"labels": ["theme"],
+			"labels": ["theme", "file icon theme"],
 			"releases": [
 				{
-					"sublime_text": ">=4107",
+					"sublime_text": "4107 - 4205",
+					"tags": "4107-"
+				},
+				{
+					"sublime_text": ">=4206",
 					"tags": true
 				}
 			]
