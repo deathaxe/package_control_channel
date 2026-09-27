@@ -204,7 +204,6 @@
 			"labels": ["theme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
