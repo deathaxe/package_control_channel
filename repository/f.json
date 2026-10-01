@@ -861,6 +861,17 @@
 			]
 		},
 		{
+			"name": "FindInFilesWalker",
+			"details": "https://github.com/aletez/find_in_files_walker",
+			"labels": ["search", "navigation", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/skuroda/FindKeyConflicts",
 			"releases": [
 				{

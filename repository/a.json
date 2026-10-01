@@ -190,6 +190,17 @@
 			]
 		},
 		{
+			"name": "ACP",
+			"details": "https://github.com/debjan/sublime-acp",
+			"labels": ["ai", "agent", "chat", "acp"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ACTG",
 			"details": "https://github.com/hackerfriendly/ACTG",
 			"labels": ["language syntax"],
@@ -2193,6 +2204,16 @@
 					"platforms": ["windows"],
 					"sublime_text": ">=4000",
 					"tags": "st4-"
+				}
+			]
+		},
+		{
+			"name": "AutoOpenReadme",
+			"details": "https://github.com/noahcoad/SublimeAutoOpenReadme",
+			"labels": ["utilities", "file navigation", "project"],
+			"releases": [
+				{
+					"tags": true
 				}
 			]
 		},

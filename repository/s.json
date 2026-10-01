@@ -5020,6 +5020,16 @@
 			]
 		},
 		{
+			"name": "Symbols",
+			"details": "https://github.com/ziishaned/sublime-text-symbols",
+			"labels": ["theme", "file", "icons"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Symfony2 Override",
 			"details": "https://github.com/igormukhingmailcom/sublimetext3-symfony2-override-package",
 			"releases": [
