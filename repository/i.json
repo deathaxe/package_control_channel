@@ -860,6 +860,7 @@
 			"details": "https://github.com/ichichikin/sublime-plugin-interactivity",
 			"releases": [
 				{
+					"sublime_text": ">=4050",
 					"tags": true
 				}
 			]
