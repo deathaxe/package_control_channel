@@ -706,10 +706,11 @@
 		},
 		{
 			"name": "Search in Project",
-			"details": "https://github.com/leonid-shevtsov/SearchInProject_SublimeText",
+			"details": "https://github.com/deese/SearchInProject_SublimeText",
 			"labels": ["search"],
 			"releases": [
 				{
+					"sublime_text": ">=4200",
 					"tags": true
 				}
 			]
@@ -2499,7 +2500,7 @@
 			"name": "Solarized Color Scheme",
 			"details": "https://github.com/braver/Solarized",
 			"donate": "https://ko-fi.com/koenlageveen",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "theme", "file icon theme"],
 			"releases": [
 				{
 					"tags": true
@@ -2558,6 +2559,16 @@
 			"name": "Sonic Pi",
 			"details": "https://github.com/fbehrens/sublime_sonic_pi",
 			"labels": ["music"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Sonokai",
+			"details": "https://github.com/huyhoang8398/Sonokai",
+			"labels": ["color scheme"],
 			"releases": [
 				{
 					"tags": true
@@ -3156,6 +3167,18 @@
 			"labels": ["language syntax", "build system", "utilities", "sql", "sqlx"],
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "SquareTable",
+			"author": "Jake Barlow (cjdbarlow)",
+			"details": "https://github.com/cjdbarlow/squaretable-st",
+			"labels": ["markdown", "textile", "restructuredtext", "pandoc", "emacs org mode", "text manipulation"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]

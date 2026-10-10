@@ -459,6 +459,17 @@
 			]
 		},
 		{
+			"name": "DeepSeaFoam",
+			"details": "https://github.com/Zanark/DeepSeaFoam-SublimeText",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Default File Type",
 			"details": "https://github.com/spadgos/sublime-DefaultFileType",
 			"releases": [
@@ -736,6 +747,15 @@
 			"name": "DevSkim",
 			"details": "https://github.com/Microsoft/DevSkim-Sublime-Plugin",
 			"labels": ["linting", "security"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/djrobby/DeWatermark",
+			"labels": ["utilities", "text manipulation", "clipboard", "paste"],
 			"releases": [
 				{
 					"tags": true

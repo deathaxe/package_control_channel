@@ -2566,7 +2566,11 @@
 			"labels": ["nlp", "tokens", "llm", "openai"],
 			"releases": [
 				{
-					"sublime_text": ">=4000",
+					"sublime_text": "4000 - 4204",
+					"tags": "py38-"
+				},
+				{
+					"sublime_text": ">=4205",
 					"tags": true
 				}
 			]

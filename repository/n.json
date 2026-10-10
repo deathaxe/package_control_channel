@@ -609,6 +609,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/aaortizb/niceDarkTheme",
+			"labels": ["theme", "color scheme", "file icon theme"],
+			"releases": [
+				{
+					"sublime_text": ">=4206",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Night Owl",
 			"details": "https://github.com/VonHeikemen/night-owl-sublime-scheme",
 			"labels": ["color scheme"],
@@ -768,6 +778,17 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Noctis Color Scheme",
+			"details": "https://github.com/ziishaned/sublime-text-noctis",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4143",
 					"tags": true
 				}
 			]
