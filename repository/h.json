@@ -957,8 +957,12 @@
 					"tags": "version/st4201/"
 				},
 				{
-					"sublime_text": ">=4204",
+					"sublime_text": "4204 - 4207",
 					"tags": "version/st4204/"
+				},
+				{
+					"sublime_text": ">=4208",
+					"tags": "version/st4208/"
 				}
 			]
 		},

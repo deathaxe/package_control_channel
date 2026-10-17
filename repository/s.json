@@ -2556,6 +2556,17 @@
 			]
 		},
 		{
+			"name": "SOML",
+			"details": "https://github.com/soml-lang/sublime-soml",
+			"labels": ["language syntax", "formatting", "soml"],
+			"releases": [
+				{
+					"sublime_text": ">=4213",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Sonic Pi",
 			"details": "https://github.com/fbehrens/sublime_sonic_pi",
 			"labels": ["music"],

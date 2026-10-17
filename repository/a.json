@@ -625,6 +625,17 @@
 			]
 		},
 		{
+			"name": "Algorithm Competition Assistant",
+			"details": "https://github.com/chenmoulaile/cph-by-chenkx",
+			"labels": ["c", "c++", "competitive programming", "testing"],
+			"releases": [
+				{
+					"sublime_text": ">=4095",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Align Arguments",
 			"details": "https://github.com/denniskempin/align-arguments",
 			"labels": ["formatting"],
@@ -848,6 +859,17 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "AMX Mod X Pawn",
+			"details": "https://github.com/NiceFeatures/sublime-pawn-syntax",
+			"labels": ["language syntax", "pawn", "amxmodx"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]

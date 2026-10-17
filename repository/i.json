@@ -101,6 +101,17 @@
 			]
 		},
 		{
+			"name": "Icons - Catppuccin",
+			"details": "https://github.com/predragnikolic/catppuccin-sublime-icons",
+			"labels": ["icons", "file icon theme"],
+			"releases": [
+				{
+					"sublime_text": ">=4206",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/chrisborrowdale/Idiomatic-CSS-Comments-Snippets",
 			"labels": ["snippets"],
 			"releases": [
@@ -126,6 +137,17 @@
 			"releases": [
 				{
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "IdraaakArticleAnchorChecker",
+			"details": "https://github.com/nedal-dev/idraaak-article-anchor-checker",
+			"labels": ["html", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
 				}
 			]
 		},
